@@ -3,8 +3,6 @@
 
 
 <h1 align="center">Hi 👋, I'm REEJAL.</h1>
-<h3 align="center">  </h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reejalchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="reejalchoudhary" /> </p>
 
@@ -12,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/@choudharyreejal" target="blank"><img src="https://img.shields.io/twitter/follow/@choudharyreejal?logo=twitter&style=for-the-badge" alt="@choudharyreejal" /></a> </p>
 
-- 🔭 I’m currently working on **my upcoming project.**
+- 🔭 I’m currently working on **improving my culinary skills and trying new recipes.**
 
-- 🌱 I’m currently learning **Cloud Computing.**
+- 🌱 I’m currently learning **web development to broaden my technical expertise.**
 
-- 💬 Ask me about **LINUX,PYTHON,BASH,CRYPTOGRAPHY.**
+- 💬 Ask me about **AI, ML, Big Data.(DON'T ASK ME ABOUT ANY OF THESE🤡)**
 
 - 📫 How to reach me **leatstalk@reejalhere.unaux.com**
 
