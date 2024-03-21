@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **AI, ML, Big Data.(DON'T ASK ME ABOUT ANY OF THESE🤡)**
 
-- 📫 How to reach me **leatstalk@reejalhere.unaux.com**
+- 📫 How to reach me **letstalk@reejalhere.unaux.com**
 
 
 
