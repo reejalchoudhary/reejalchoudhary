@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/choudharyreejal" target="blank"><img src="https://img.shields.io/twitter/follow/choudharyreejal?logo=twitter&style=for-the-badge" alt="choudharyreejal" /></a> </p>
 
-- 🔭 I’m currently working on **improving my culinary skills and trying new recipes.**
+- 🔭  I’m a Bachelor of Computer Applications (BCA) student actively working on software development projects.
 
-- 🌱 I’m currently learning **web development to broaden my technical expertise.**
+- 🌱 I’m Currently learning Java, building cross-platform apps with Flutter, exploring API testing, and gaining experience in cybersecurity.
 
-- 💬 Ask me about **AI, ML, Big Data.(DON'T ASK ME ABOUT ANY OF THESE🤡)**
+- 💬 Interested in mobile app development, backend integration, software debugging, and secure coding practices.
 
-- 📫 How to reach me **letstalk@reejalhere.unaux.com**
+- 📫 How to reach me **reejalree@gmail.com**
 
 
 
